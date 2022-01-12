@@ -3,3 +3,41 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.dm-color-head{
+    color: #29b1dd;
+}
+
+.dm-search{
+    color: #fff;
+    height: 70px;
+    width: 100%;
+    background-color: #29b1dd;
+    font-size: 15px;
+    display: inline-block;
+
+}
+
+#dm-type-filter{
+    height: 25px;
+    margin-left: 10px;
+}
+
+.dm-bgcontainer-color{
+    background-color: #dddddd;
+    height: 100%;
+}
+
+.dm-box{
+    height: 120px;
+    width: 180px;
+    background-color: #f5f5f5;
+    font-size: 25px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 8px #888888;
+}
+
+.dm-animal-color{
+    color: rgb(211, 109, 13);
+    font-size: 40px;
+}
